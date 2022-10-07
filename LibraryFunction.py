@@ -1,0 +1,11 @@
+from math import*
+print(max(29,60))
+print(min(29,60))
+print(abs(4))
+print(pow(2,3))
+print(sqrt(4))
+print(round(30.49))
+print(round(30.50))
+print(round(30.51))
+print(floor(3.7))
+print(ceil(3.7))
